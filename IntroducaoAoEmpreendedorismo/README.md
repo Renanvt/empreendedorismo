@@ -1,4 +1,4 @@
-[Introdução](#Introdução)
+# Tópicos
 
 [Definições de empreendedorismo](#definições-de-empreendedorismo)
 
@@ -17,6 +17,7 @@
 [Considerações finais](#considerações-finais)
 
 # Objetivos de aprendizagem
+
 •Conceituar e contextualizar o empreendedorismo.
 
 •Compreender os tipos de empreendedorismo.
@@ -47,6 +48,8 @@
 
 •Vale ressaltar que o empreendedor sozinho pode ter a ideia e transformar em negócio, ou também com a ajuda de mais pessoas.
 
+# [👆 TÓPICOS](#tópicos)
+
 # Campos de estudo
 
 • É possível encontrar mais de 25 campos. O material complementar de Filion mostra, com detalhes, cada área.
@@ -55,6 +58,8 @@
 cultura.
 
 • Como estuda fenômenos sociais, sempre existem particularidades a serem estudadas.
+
+# [👆 TÓPICOS](#tópicos)
 
 # Breve histórico do empreendedorismo
 
@@ -67,6 +72,8 @@ cultura.
 • No Brasil, começou, em 1990, com a criação do SEBRAE e Softex.
 
 • Vivemos a Era do Empreendedorismo para Dornelas.
+
+# [👆 TÓPICOS](#tópicos)
 
 # Tipos de empreendedorismo
 
@@ -86,6 +93,8 @@ cultura.
 
 • **Empreendedor normal** - planejado.
 
+# [👆 TÓPICOS](#tópicos)
+
 # Intraempreendedorismo
 
 • É um processo que ocorre dentro de uma empresa existente, independente de seu porte, e a leva não somente a novos negócios, mas também a outras atividades e orientações inovadoras, como o desenvolvimento de novos produtos, serviços, tecnologias, técnicas administrativas, estratégias e posturas competitivas (MONTENEGRO, 2012).
@@ -95,6 +104,8 @@ cultura.
 ### Principais diferenças entre a cultura tradicional e a cultura intraempreendedora
 
 ![TradicionalVSIntraempreendedora](img/TradicionalVSIntraempreendedora.PNG)
+
+# [👆 TÓPICOS](#tópicos)
 
 # Franquia como forma de empreendedorismo
 
@@ -110,6 +121,8 @@ cultura.
 
 ![Franquias](img/Franquias.PNG)
 
+# [👆 TÓPICOS](#tópicos)
+
 # O papel social e econômico do empreendedorismo
 
 • De acordo com Stoner e Freeman (1999) os benefícios gerados pelo empreendedorismo por meio da criação de novos negócio são:
@@ -124,6 +137,8 @@ cultura.
 
 • Para Julien (2010), deve existir o olhar mais voltado ao local, pois é importante incentivar o **desenvolvimento e o atendimento de demandas locais**. Se a região não oferece condições propícias, os empreendedores terão dificuldade em manter o negócio aberto e outras possíveis **organizações migrarão para outro local**, comprometendo o futuro. Se a região for mais dinâmica e tiver mais opções, pode abrigar essas entidades. O empreendedorismo **tem impacto sobre o mercado, o meio e a sociedade.**
 
+# [👆 TÓPICOS](#tópicos)
+
 # Considerações finais
 
 • O empreendedorismo envolve a combinação de indivíduos e recursos que criam novos produtos, serviços, mercados, processos de produção e formas de organização.
@@ -133,3 +148,5 @@ cultura.
 • Importância social e econômica do empreendedorismo.
 
 • Para os cursos ligados à gestão, estudar empreendedorismo é uma forma de compreender como está a dinâmica do mercado.
+
+# [👆 TÓPICOS](#tópicos)
